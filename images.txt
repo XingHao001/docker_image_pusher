@@ -12,5 +12,6 @@ nacos/nacos-server:v2.3.2
 mysql:5.7
 foxiswho/rocketmq:4.8.0
 pangliang/rocketmq-console-ng
+canal/canal-server:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
